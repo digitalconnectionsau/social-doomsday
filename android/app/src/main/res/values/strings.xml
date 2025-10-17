@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Social Media Check</string>
+    <string name="device_admin_label">Kiosk Mode Admin</string>
+    <string name="device_admin_description">Device administrator for kiosk mode security</string>
+</resources>
