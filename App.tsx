@@ -240,7 +240,7 @@ function SocialApp(): React.JSX.Element {
           <View style={[styles.windowButton, {backgroundColor: '#FFBD2E'}]} />
           <View style={[styles.windowButton, {backgroundColor: '#28CA42'}]} />
         </View>
-        <Text style={styles.appTitle}>LinkedIn - Profile</Text>
+        <Text style={styles.appTitle}>LinkedIn - Profile [✅ FIXED!]</Text>
         <TouchableOpacity 
           style={styles.logoutButton}
           onPress={openLogout}
